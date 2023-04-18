@@ -142,7 +142,7 @@ body {
 
 @media only screen and (min-width: 50rem) {
   .testimonial__list {
-    margin: 10.25rem;
+    margin-inline: 10.25rem;
     grid-template-areas:
       "daniel daniel jonathan kira"
       "jeanette patrick patrick kira";
